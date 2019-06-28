@@ -2,7 +2,7 @@
   "name": "mrclean",
   "version": "1.0.0",
   "description": "Mr Clean Web Site",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
