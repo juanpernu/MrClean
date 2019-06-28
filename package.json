@@ -1,0 +1,26 @@
+{
+  "name": "mrclean",
+  "version": "1.0.0",
+  "description": "Mr Clean Web Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpernu/MrClean.git"
+  },
+  "keywords": [
+    "Mr",
+    "Clean",
+    "clean",
+    "servicio",
+    "limpieza"
+  ],
+  "author": "Juan Manuel Pernumian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juanpernu/MrClean/issues"
+  },
+  "homepage": "https://github.com/juanpernu/MrClean#readme"
+}
