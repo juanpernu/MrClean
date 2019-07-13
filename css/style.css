@@ -37,6 +37,22 @@ a {
 .color-white-opacity-5 {
   color: rgba(255, 255, 255, 0.5); }
 
+.mr-clean--logo {
+  max-width: 350px;
+  margin: 50px 0;
+}
+
+@media (max-width: 768px) {
+  .mr-clean--logo-mobile {
+    max-width: 140px;
+  }
+
+  .mr-clean--logo {
+    max-width: 320px;
+    margin: 50px 0;
+  }
+}
+
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
