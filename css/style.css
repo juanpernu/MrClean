@@ -4,6 +4,10 @@
   height: 480px !important;
 }
 
+.remove-bottom-padding {
+  padding-bottom: 0 !important;
+}
+
 /* Base */
 body {
   line-height: 1.7;
@@ -1409,7 +1413,7 @@ a {
   margin-bottom: 40px; }
 
 .how-it-work-item h2 {
-  font-size: 18px;
+  font-size: 22px;
   margin-bottom: 30px;
   color: #fff; }
 
